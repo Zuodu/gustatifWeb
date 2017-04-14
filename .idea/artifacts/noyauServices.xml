@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="noyauServices">
+    <output-path>$PROJECT_DIR$/jar/noyauServices</output-path>
+    <root id="archive" name="noyauServices.jar">
+      <element id="module-output" name="GustatifWeb" />
+      <element id="library" level="project" name="com.google.code.gson:gson:2.8.0" />
+      <element id="library" level="project" name="com.google.maps:google-maps-services:0.1.20" />
+      <element id="library" level="project" name="org.eclipse.persistence:org.eclipse.persistence.jpa:2.6.0" />
+      <element id="library" level="project" name="Maven: org.eclipse.persistence:javax.persistence:2.1.0" />
+      <element id="jpa-descriptors" facet="GustatifWeb/jpa/JPA" />
+    </root>
+  </artifact>
+</component>

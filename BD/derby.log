@@ -110,3 +110,5 @@ ERROR XJ004: Base de données 'BDGustaIF' introuvable.
 ============= end nested exception, level (1) ===========
 Cleanup action completed
 Fri Apr 14 00:49:58 CEST 2017 Thread[DRDAConnThread_3,5,main] (DATABASE = BDGustaIF), (DRDAID = {3}), Base de données 'BDGustaIF' introuvable.
+----------------------------------------------------------------
+Fri Apr 14 02:15:47 CEST 2017 : fermeture du moteur Derby
